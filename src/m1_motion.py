@@ -71,8 +71,8 @@ def run_test_go(robot):
     # -------------------------------------------------------------------------
     # TODO: 3. Implement this.
     # -------------------------------------------------------------------------
-    go(robot, 2, 5, 5)
-    go(robot, 2, 10, 2)
+    go(robot, 2, 35, 35)
+    go(robot, 2, 60, 22)
 
 
 def go(robot, seconds, left_wheel_speed, right_wheel_speed):
